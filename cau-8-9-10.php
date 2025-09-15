@@ -52,7 +52,5 @@ function tinhTrungBinhMang($arr) {
 }
 // Ví dụ mảng
 $numbers = [2, 4, 6, 8, 10];
-
-// Gọi hàm và in kết quả
 echo "Trung bình cộng của mảng là: " . tinhTrungBinhMang($numbers);
 ?>
